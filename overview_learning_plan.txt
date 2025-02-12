@@ -1,0 +1,65 @@
+ALL ABOUT TYPES
+1. Primitive Types
+2. Object Types
+3. Custom Parameters
+4. Custom Returns
+5. Call Signatures
+
+FUNCTIONS IN TYPESCRIPT
+1. Declaring Functions
+2. Default And Optimal Parameters
+3. Custom Parameters
+4. Custom Returns
+5. Call Signatures
+
+GENERIC IN TYPESCRIPTS 
+1. Polymorphic Functions
+2. Problems With Function Overloads
+3. Intro to Generics
+4. Working With Generics
+5. Practice Implementations
+
+CLASSES AND INHERITANCE
+1. Classes
+2. Instances
+3. Constructor Functions
+4. Inheritance
+5. Access Mopdifiers
+6. Accessors and Miutators
+
+ABSTRACT CLASSES AND INTERFACES
+1. Static Properties
+2. Abstract Classes
+3. Why Abstract Classes and Differences
+4. Interfaces
+5. Multiple Inheritance
+6. Generics With Interfaces
+
+THE TYPESCRIPT COMPILER
+1. File Options
+2. Type Checking Options
+3. File Watcher And Source Maps
+
+PROTOTYPERS AND OBJECTS
+1. 'this' keyword
+2. Constructor Functions
+3. Prototypes
+4. Prototypical Inheritance
+5. Property Descriptors
+6. How Classes Uses Prototypes
+
+DECORATORS IN TYPESCRIPT
+1. All About Decorators
+2. Decorator Factories
+3. Class Members Decorators
+4. Modifying The Prototype
+5. Multiple Decorators
+6. Execution Sequence
+
+ADVANCED CONCEPTS AND FEATURES
+1. Type Widening
+2. Discriminated Unions
+3. Subtypes and Supertypes
+4. Typecasting
+5. Totality
+6. Conditional Types
