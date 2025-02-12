@@ -1,1 +1,31 @@
-What is typescript
+What is TypeScript?
+TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.
+
+How JavaScript programs work?
+1. Source code is parsed as AST ( Abstract Syntax Tree ). So your entire JavaScript program is first converted into AST. 
+This is done so that the dompiler can better understand the source code of your program. Next, it is sent to the JS compiler.
+2. The JS compiler convert the JS program into Byte Code.
+3. Next it is sent for ececution to a runtime environment. A runtime environment can be a node or the browser for example. 
+Any JS runtime which is able to execute bytecode goes ahead and executes this bytecode for you.
+
+How TypeScript programs work?
+1. Source code written in TypeScript is converted into an abstract syntax tree 
+2. Source code is checked by TypeScript compiler. The TS compiler checks the types of your code. The compiler checks the TypeScript code
+ and checks whether the types of each of your values are valid or not. The TS compiler will throw an error if your source code has
+  invalid tyypes.
+3. Once your TypeScript code is validated by the TypeScript compiler, it does something very different. It converts that code into JavaScript
+code instead of bytecode. So the difference is that TypeScript is ultimately compiled to JavaScript. It's a fancier way of writing JS programs.
+Next, the JS code goes thropugh the execution process of a JS program. 
+
+TypeScript is a superset of JavaScript with additional language features :
+- Static Typecasting
+- Interfaces
+- Type Aliases
+- Enums
+- Generics
+- Tuples
+- Abstract Classes
+- Access Mopdifiers
+- Decorators
+- Utility types
+etc.
