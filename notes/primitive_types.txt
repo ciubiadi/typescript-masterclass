@@ -1,0 +1,17 @@
+What is a Primitive Type in JS?
+It is data that is not an object and has no methods or properties. A primitive value is represented directly at the lowest level of the 
+language Implementation.
+
+All JS Primitive Types can be used in TypeScript as well:
+1. String
+2. Null
+3. Number
+4. Undefined
+5. Symbol
+6. Boolean
+7. BigInt
+
+
+Inference
+TypeScript tries to infer the type of each every declaration all by itself. Primitive Types are immutable and whenever you have a primitive type
+with a const keywod, the type of the constant becomes a literal value assigned to the constant.
